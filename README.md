@@ -3,7 +3,7 @@ Suite de commande écrit en Pascal (Turbo Pascal ou Free Pascal) destiné aux mi
 
 <h3>Liste des fichiers</h3>
 
-Voici la liste des différents fichiers proposés dans «8080-TOOLS» :
+Voici la liste des différents fichiers proposés dans «6502-TOOLS» :
 
 <table>
 		 <tr>
